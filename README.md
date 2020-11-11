@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-yifan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yifanzhang)](https://www.linkedin.com/in/yifanzhang)
+
+
+I am a full-stack programmer.
+
+
+[![Yifan's github stats](https://github-readme-stats.vercel.app/api?username=yifan&count_private=true&show_icons=true&theme=dracula)](https://github.com/yifan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yifan)](https://github.com/yifan/github-readme-stats)
+
 <!--
 **yifan/yifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
