@@ -3,8 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yifan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yifanzhang)](https://www.linkedin.com/in/yifanzhang)
 
 
-I am a full-stack programmer.
+I am a full-stack programmer currently working on information processing for fighting disinformation. I believe the way to fight disinformation is not to be the authority of information. Rather, we need to give power to everyone, and disinformation will be cancelled out.
 
+BTW, if you can recommend a eink reader with great performance on reading books online, let me know! 
 
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
