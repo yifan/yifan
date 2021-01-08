@@ -36,6 +36,8 @@ BTW, if you can recommend a eink reader with great performance on reading books 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yifan)](https://github.com/yifan/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/yifan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FQatar)
+
 <!--
 **yifan/yifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
