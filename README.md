@@ -5,6 +5,8 @@
 
 I am a full-stack programmer currently working on information processing for fighting disinformation. I believe the way to fight disinformation is not to be the authority of information. Rather, we need to give power to everyone, and disinformation will be cancelled out.
 
+I am part of [![Qatar Center of Artificial Intelligence](https://qcai.qcri.org)]
+
 BTW, if you can recommend a eink reader with great performance on reading books online, let me know! 
 
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
